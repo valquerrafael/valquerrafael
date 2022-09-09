@@ -13,7 +13,14 @@
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div><br>
-  
+
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=valquerrafael&theme=radical&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=valquerrafael&theme=radical)](https://git.io/streak-stats)
+  
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=valquerrafael&theme=radical&column=3&margin-w=82&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=valquerrafael&theme=radical)](https://git.io/streak-stats)
+
+</div>
 
