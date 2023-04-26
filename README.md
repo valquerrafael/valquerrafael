@@ -1,7 +1,7 @@
-# :wave: Olá, meu nome é Valquer Rafael, trabalho com engenharia de software
-### Atuando como estagiário em desenvolvimento Web Full-stack
-<br />
-<h2>Tecnologias conhecidas por experiência profissional:</h2>
+# :wave: Olá, meu nome é Valquer Rafael
+Estou atuando como estagiário em desenvolvimento Web Full-stack
+
+<h3>Tecnologias conhecidas por experiência profissional:</h3>
 <div style="display: inline-block">
   <img align="center" alt="NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -10,7 +10,7 @@
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
-<h2>Tecnologias conhecidas por experiência acadêmica:</h2>
+<h3>Tecnologias conhecidas por experiência acadêmica:</h3>
 <div style="display: inline-block">
   <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="AngularJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
