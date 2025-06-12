@@ -11,44 +11,22 @@ I thrive in collaborative environments, prioritizing code quality, customer sati
 ### My skills:
 
 #### Languages:
-- TypeScript
-- JavaScript
-- Python
-- Golang
-- SQL
+- TypeScript, JavaScript, Python, Golang, SQL
 
 #### Frontend:
-- React
-- Next.js
-- Tailwind CSS
-- Shadcn/ui
+- React, Next.js, Tailwind CSS, Shadcn/ui
 
 #### Backend:
-- Node.js
-- NestJS
-- Python
+- Node.js, NestJS, Python
 
 #### Databases:
-- MySQL
-- MariaDB
-- PostgreSQL
-- MongoDB
+- MySQL, MariaDB, PostgreSQL, MongoDB
 
 #### Testing:
-- Jest
-- JUnit (Unit, E2E)
+- Jest, JUnit (Unit, E2E)
 
 #### Cloud & DevOps
-- AWS (ECS, EC2, SQS, S3, CloudWatch)
-- Docker
-- CI/CD
-- Git/Gitflow/GitLab
+- AWS (ECS, EC2, SQS, S3, CloudWatch), Docker, CI/CD, Git, Gitflow
 
 #### Architecture & Methods:
-- RESTful APIs
-- GraphQL
-- Microservices
-- Object-Oriented Programming (OOP)
-- Design Patterns
-- Agile (Scrum, Kanban)
-- Pair Programming
+- RESTful APIs, GraphQL, Microservices, Object-Oriented Programming (OOP), Design Patterns, Agile (Scrum, Kanban), Pair Programming
